@@ -1,3 +1,4 @@
+#Starr Deng
 import random
 
 n = int(input("Enter list length n:"))
